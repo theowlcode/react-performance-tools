@@ -1,7 +1,8 @@
 import "./App.css";
+import { Father } from "./components/father";
 
 function App() {
-  return <></>;
+  return <Father />;
 }
 
 export default App;
